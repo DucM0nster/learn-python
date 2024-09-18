@@ -1,0 +1,7 @@
+print("Find out the maximum of two numbers.")
+input("press enter ")
+var1 = input ("choose a number: ")
+var2 = input ("Choose a second: ")
+var1 = int(var1)
+var2 = int(var2)
+print(var1 * var2)
